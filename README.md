@@ -200,7 +200,7 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 
 <br/>
 
-<h2>Clean Up</h2>
+<h2>Logging Off</h2>
 <ul>
   <li>Log off Remote Desktop Connection</li>
   <li>It is advise to delete your Resource Group and VMs after finishing tinkering with them to prevent future costs, deletion of assets on Azure require verification by entering the name of the asset. Also to note, the Resource Group <b>NetworkWatcherRG</b> is created when creating NSGs for Virutal Machines and requires its own deletion</li>
